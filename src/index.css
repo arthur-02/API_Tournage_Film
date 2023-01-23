@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar&family=Roboto&display=swap');
+body{
+  margin: 0;
+  padding: 0 1rem 0 1rem;
+  font-family: 'Roboto', sans-serif;
+  min-height: 100vh;
+  color : #d6dbd5;
+  background-color: #1b4b36;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Eczar', serif;
+}
+a{
+  color: #d6dbd5;
+}
